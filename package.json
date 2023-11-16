@@ -1,0 +1,19 @@
+{
+    "name": "projet-movie",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "sass": "sass --watch ./sass/main.scss:./style.css --style compressed"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Arno-Dubois/projet-movie.git"
+    },
+    "author": "Arno Dubois",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Arno-Dubois/projet-movie/issues"
+    },
+    "homepage": "https://github.com/Arno-Dubois/projet-movie#readme"
+}
