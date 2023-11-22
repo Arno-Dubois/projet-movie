@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Roboto;
+}
+
+a {
+    cursor: pointer;
+    &:hover {
+        text-decoration: underline;
+    }
+}

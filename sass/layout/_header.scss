@@ -1,15 +1,27 @@
 header {
     display: flex;
-    height: 2rem;
+    height: 5rem;
     justify-content: space-between;
     background-color: $primary-color;
 
+    padding: 0 3.3rem;
+
     img {
-        height: 1rem;
+        height: 3rem;
+        margin: auto 0;
     }
 }
 
 ul {
     display: flex;
-    justify-content: space-around;
+    justify-content: right;
+    gap: 1rem;
+    margin: auto 0;
+    color: $tertiary-color;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+li {
+    list-style: none;
 }
